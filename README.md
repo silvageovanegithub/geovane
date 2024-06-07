@@ -1,4 +1,4 @@
-# geovane
+# Geovane
 # Título do Projeto Extremamente Aesthetic ;)
 Immersion with artificial intelligence today
 [O que é a IA generativa.docx](https://github.com/user-attachments/files/15696589/O.que.e.a.IA.generativa.docx)
